@@ -6,7 +6,7 @@ $(document).ready(function(){ // JQuery method that waits until all HTML element
 
     //Making the data table
 
-    const data = [ // Entry format: [year, boys born, girls born]
+    const data = [ // Table can be expanded by adding more arrays to this array on the format: [year, boys born, girls born]
         [2011, 31006, 29214],
         [2012, 30933, 29322],
         [2013, 30138, 28857],
